@@ -5,3 +5,11 @@ Matrix Rain effect using pygame
 >
 > Install pygame with:
 > `pip install pygame`
+___
+
+### Screenshots:
+#### Alphanumeric Matrix:
+![Alphanumeric Matrix](Screenshots/AlphaNumeric_Metrix.png)
+___
+#### Binary Matrix:
+![Binary Matrix](Screenshots/Binary_Metrix.png)
