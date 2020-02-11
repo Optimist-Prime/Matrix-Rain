@@ -11,5 +11,5 @@ ___
 #### Alphanumeric Matrix:
 ![Alphanumeric Matrix](Screenshots/AlphaNumeric_Metrix.png)
 ___
-#### Binary Matrix:
+#### Binary Matrix (temporarily removed):
 ![Binary Matrix](Screenshots/Binary_Metrix.png)
